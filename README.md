@@ -1,1 +1,1 @@
-[![MasterHead](https://i.ibb.co/bH907hm/header.png)](https://github.com/jakovVinozganic/)
+[![MasterHead](https://i.ibb.co/xzY8fTG/vinozganic.png)](https://github.com/jakovVinozganic/)
