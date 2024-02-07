@@ -4,6 +4,8 @@
 - :office: &nbsp;Currently working at [Uprise]
 - :mailbox: &nbsp;Contact me on [LinkedIn]
 
+<br/>
+
 ![vinozganic's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinozganic&show_icons=true&theme=tokyonight)
 
 [Uprise]: https://www.uprise.hr "Uprise.hr"
