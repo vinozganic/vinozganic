@@ -1,5 +1,7 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Jakov Vinožganić</h1>
 
+<br/>
+
 - :school: &nbsp;Computer Science Student at [FER]
 - :office: &nbsp;Currently working at [Uprise]
 - :mailbox: &nbsp;Contact me on [LinkedIn]
