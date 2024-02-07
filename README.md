@@ -1,9 +1,7 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Jakov Vinožganić</h1>
 <h3 align="left">Computer Science Student at FER and Full-Stack developer in Uprise</h3>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
+![vinozganic's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinozganic&show_icons=true)
 
 - :office: &nbsp;I'm currently working at **[Uprise]**
 - :speech_balloon: &nbsp;I like to talk about **Backend development** and **K8s**
