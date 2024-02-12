@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">👋🏻 Hello there! I'm Jakov Vinožganić</h1>
+<h1 align="left" id="macropower-title">Jakov Vinožganić | Software Engineering Student 👨🏻‍💻</h1>
 
 <br/>
 
