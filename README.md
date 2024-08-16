@@ -4,6 +4,6 @@
 - :office: &nbsp;Currently working at [PhasedConnect]
 - :mailbox: &nbsp;Contact me on [LinkedIn]
 
-[Uprise]: https://www.phasedconnect.eu/ "PhasedConnect"
+[PhasedConnect]: https://www.phasedconnect.eu/ "PhasedConnect"
 [LinkedIn]: https://linkedin.com/in/jakov-vinožganić-06aa3b139 "Jakov Vinožganić LinkedIn"
 [FER]: https://www.fer.unizg.hr "FER"
